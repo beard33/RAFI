@@ -1,3 +1,5 @@
+#! /bin/ruby
+
 require "gtk3"
 require "./Utils/Filepicker.rb"
 require "./Utils/Application"
